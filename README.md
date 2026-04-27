@@ -41,6 +41,6 @@ Carbon Credit MRV Analysis — emissions data pipeline and reporting dashboard.
 
 ## Contact
 
-- 📧 your.email@gmail.com
-- 💼 linkedin.com/in/yourprofile
+- 📧 
+- 💼 [linkedin.com/in/yourprofile](https://www.linkedin.com/in/maryiddah-wanjiru-b79659110/)
 - 🌍 Nairobi, Kenya
